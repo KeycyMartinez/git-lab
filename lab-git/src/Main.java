@@ -14,5 +14,5 @@ void main() {
     System.out.println("hola");
     System.out.println("hola desde rama secundaria");
     int x = 500;
-    System.out.printl("hola Git")
+    System.out.println("hola Git");
 }
